@@ -19,8 +19,8 @@ viewNum = length(X); %viewNum
 iteration =7; %number of iteration
 
 beta =m/N/viewNum;
-gamma=1/p/L; 
-lambda = 1/p/L/viewNum;
+gamma=1/m/L; 
+lambda = 1/m/L/viewNum;
 
 pr = 0;
 ac = 0;
